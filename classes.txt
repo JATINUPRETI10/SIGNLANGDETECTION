@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A
 B
 C
@@ -56,3 +57,34 @@ Z
 del
 nothing
 space
+=======
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+del
+nothing
+space
+>>>>>>> 5c98ebbc932d4f76c69a262bc9615823ab61e047
